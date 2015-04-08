@@ -1,0 +1,25 @@
+.mar-bot-10 {margin-bottom: 10px !important;}
+.mar-bot-20 {margin-bottom: 20px !important;}
+.mar-bot-30 {margin-bottom: 30px !important;}
+.mar-top-10 {margin-top: 10px !important;}
+.mar-top-20 {margin-top: 20px !important;}
+.mar-top-30 {margin-top: 30px !important;}
+.mar-bot-100 {margin-bottom: 100px !important;}
+.pad-hor-10 {padding: 0 10px !important;}
+.pad-hor-15 {padding: 0 15px !important;}
+.no-mar-pad {margin: 0 !important;padding: 0 !important;}
+.no-mar-bot {margin-bottom: 0 !important;}
+.pad-top-10 {padding-top: 10px !important;}
+.pad-top-20 {padding-top: 20px !important;}
+.pad-top-30 {padding-top: 30px !important;}
+.pad-bot-10 {padding-bottom: 10px !important;}
+
+
+.bold { font-weight: bold;}
+.light { font-weight: 300;}
+.italic { font-style: italic;}
+
+.rel { position: relative;}
+
+.block { display: block;}
+.inline-block { display: inline-block;}
